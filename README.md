@@ -30,7 +30,7 @@ DNSify is a simple application that allows users to switch DNS servers to access
      ```
    - Run the script:
      ```powershell
-     .\dns.ps1
+     .\DNSify.ps1
      ```
 
 ### For Linux Users
@@ -48,13 +48,13 @@ DNSify is a simple application that allows users to switch DNS servers to access
      ```
    - Make the script executable:
      ```bash
-     chmod +x dns_switch.sh
+     chmod +x DNSify.sh
      ```
 
 4. **Run the Script**:
    - Execute the script with elevated privileges:
      ```bash
-     sudo ./dns_switch.sh
+     sudo ./DNSify.sh
      ```
 
 ## Usage
