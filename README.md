@@ -75,4 +75,4 @@ DNSify is a simple application that allows users to switch DNS servers to access
 
 
 ## Author
-Alireza Ahmadi
+@lireza @hmadi A.K.A AwlirezaZ
