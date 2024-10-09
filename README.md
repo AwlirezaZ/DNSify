@@ -12,7 +12,7 @@ DNSify is a simple application that allows users to switch DNS servers to access
 ### For Windows Users
 
 1. **Download the Script**:
-   - Download the PowerShell script: .
+   - Download the PowerShell script: [Download DNSify For Windows](https://github.com/AwlirezaZ/DNSify/blob/main/DNSify.ps1).
 
 2. **Open PowerShell**:
    - Search for PowerShell in the Start menu and run it as an Administrator.
