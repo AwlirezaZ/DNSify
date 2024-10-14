@@ -45,7 +45,7 @@ try {
         Write-Host "No working DNS found. Exiting the script."
         exit
     }
-    Write-Host "Press Ctrl+C or close the window to stop the script and reset DNS to default."
+    Write-Host "Press Ctrl+C to stop the script and reset DNS to default."
     while ($true) {
         Start-Sleep -Seconds 10
     }
