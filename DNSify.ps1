@@ -48,6 +48,7 @@ try {
     Write-Host "Press Ctrl+C or close the window to stop the script and reset DNS to default."
     while ($true) {
         Start-Sleep -Seconds 10
+    }
 } finally {
     Write-Host "Resetting DNS to default..."
     Set-DnsClientServerAddress -InterfaceAlias $adapterName -ServerAddresses $currentDNS
