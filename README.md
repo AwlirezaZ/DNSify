@@ -16,7 +16,7 @@ DNSify is a simple application that allows users to switch DNS servers to access
 2. **Open PowerShell**:
    - Open the folder where you downloaded and saved the script.
    - On the top-left corner of the folder, click on **File**.
-   - Hover your mouse over **Open Windows PowerShell**, then click **Open Windows PowerShell as administrator** from the drop-down menu.
+   - Hover your mouse over **Open Windows PowerShell**, then click **Open Windows PowerShell as administrator** from the drop-down menu. (You can also navigate to the directory that you saved the script via **cd** command)
 
 3. **Unblock the Script**:
    - Right-click on the `DNSify.ps1` file and select **Properties**.
