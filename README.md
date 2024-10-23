@@ -35,10 +35,11 @@ DNSify is a simple application that allows users to switch DNS servers to access
      .\DNSify.ps1
      ```
 
-### For Linux Users
+### For Linux and MacOS Users
 
 1. **Download the Script**:
    - Download the Bash script: [Download DNSify For Linux](https://github.com/AwlirezaZ/DNSify/blob/main/DNSify.sh) .
+   - Download the Bash script: [Download DNSify For MacOs](https://github.com/AwlirezaZ/DNSify/blob/main/DNSify(macOS).sh) .
 
 2. **Open Terminal**:
    - Launch your terminal application.
