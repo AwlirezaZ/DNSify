@@ -64,7 +64,7 @@ DNSify is a simple application that allows users to switch DNS servers to access
 
 1. **Run the Application**:
    - On Windows, run the PowerShell script.
-   - On Linux, run the Bash script.
+   - On Linux and MacOS, run the Bash script.
 
 2. **Check DNS Servers**:
    - The application will check the listed DNS servers for connectivity to Spotify.
